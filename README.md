@@ -39,4 +39,4 @@ pip install -r requirements.txt
 GNU GPLv3
 
 ### Contact
-Contact at koding[dot]coding[at]gmail[dot]com or @Koding_Coding on Twitter. Still a student, hence not planning to reveal my identity currently.
+Happy to talk at koding[dot]coding[at]gmail[dot]com or @Koding_Coding on Twitter. I'm still a student in this university, hence not planning to reveal my identity currently.
