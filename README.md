@@ -12,7 +12,7 @@ But the trend uncovered by my statistics reveal a completely different story.
 Here, I'll be talking of a random college (let us say 'X'), whose results I took as sample. [Note: If you run the given script, it generates the statistics for ALL the colleges.]
 
 ### Statistics
-* Out of 17 students who applied for reval in Sub X, 10 got their marks increased. **How can the evaluators make so many mistakes?** That is a freaking 59% students getting their marks increased. And this data is only for 130 students. There are approximately 150000 students in the university. **Something definitely dosen't seem quite right here.**
+* Out of 17 students who applied for reval in Sub X, 10 got their marks increased. **How can the evaluators make so many mistakes?** That is a freaking 59% students getting their marks increased. And this data is only for 130 students. There are approximately 450000 students in the university. **Something definitely dosen't seem quite right here.**
 * On an average, atleast 40% students **[PER SUBJECT]** got their marks increased after reevaluation. **Was every third copy wrongly evaluated?**
 * The highest marks increase was in this subject Y, where a student got as much as **29 marks** increased. **HOW IS THIS POSSIBLE?** Let us assume this was his bad luck and the evaluator made a geniune mistake. But the next point will blow your socks off.
 * The **AVERAGE** increase of marks of students in this very same subject Y is a whooping 12 marks. **I dont think all the evalators made checking mistakes AT THE SAME TIME (or did they?)** How can someone's marks increase by so much after paying money? **That is statistically impossible.**
@@ -28,7 +28,7 @@ I had this friend, who was(is) a topper. In the previous(6th) semester, he faile
 After the reevaluation, he passed that subject and his marks increased by 4%. Now he dosen't have a back paper and he is also eligible to sit for companies. The only issue is that no more companies are coming to take students anymore. He missed the oportunity.
 
 Result: His career is ruined. He will graduate **WITHOUT** a campus job offer. And why all this happened with him? I guess you all are intelligent enough to answer that.
-He is just someone I know. I'm sure there are many out of my 150000 fellow batchmates whose cases will resonate with this one.
+He is just someone I know. I'm sure there are many out of my 450000 fellow batchmates whose cases will resonate with this one.
 
 Have we really lost the true essence of education? Or have we reduced it to mere profit making business? The results are eye-opening, to say the least.
 
