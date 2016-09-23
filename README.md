@@ -13,12 +13,14 @@ Here, I'll be talking of a random college (let us say 'X'), whose results I took
 
 ### Statistics
 * Out of 17 students who applied for reval in Sub X, 10 got their marks increased. **How can the evaluators make so many mistakes?** That is a freaking 59% students getting their marks increased. And this data is only for 130 students. There are approximately 150000 students in the university. **Something definitely dosen't seem quite right here.**
-* On an average, atleast 40% students **[PER SUBJECT]** got their marks increased after reevaluation. **Was every third copy was wrongly evaluated?**
+* On an average, atleast 40% students **[PER SUBJECT]** got their marks increased after reevaluation. **Was every third copy wrongly evaluated?**
 * The highest marks increase was in this subject Y, where a student got as much as **29 marks** increased. **HOW IS THIS POSSIBLE?** Let us assume this was his bad luck and the evaluator made a geniune mistake. But the next point will blow your socks off.
 * The **AVERAGE** increase of marks of students in this very same subject Y is a whooping 12 marks. **I dont think all the evalators made checking mistakes AT THE SAME TIME (or did they?)** How can someone's marks increase by so much after paying money? **That is statistically impossible.**
 * Averaging the data for these 130 students, it turns out that if you put two of your subjects for reevaluation (for Rs.800/-), then it is almost guranteed that you will get an increase of 9 marks. 9 marks make up a **ONE FULL PERCENT** of your undergraduate result.
 
 ![alt tag](https://github.com/KodingCoding/VTU-Reval-Stats/blob/master/VTU_6th_Sem_Reval_Stats.png)
+
+Fig: Statistics of 130 CSE students of college 'X'
 
 ### Why I did this
 I had this friend, who was(is) a topper. In the previous(6th) semester, he failed in this suject Z, and as a result got 69% marks overall. He wasnt allowed to sit for any companies in the placement season because he couldn't clear the cutoff (which was 70%) for most companies and also because he had a back paper to clear.
